@@ -1,10 +1,3 @@
-//
-//  VocabulousApp.swift
-//  Vocabulous
-//
-//  Created by Jake Ashton on 7/13/25.
-//
-
 import SwiftUI
 
 @main
