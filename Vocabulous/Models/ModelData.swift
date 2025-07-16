@@ -2,7 +2,7 @@ import Foundation
 
 @Observable
 class ModelData {
-    var words: [Entry] = load("dictionary.csv")
+    var words: [Entry] = load("dictionary.json")
 }
 
 func load<T: Decodable>(_ filename: String) -> T {

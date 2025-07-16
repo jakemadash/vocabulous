@@ -33440,16 +33440,6 @@
     "notes": null
   },
   {
-    "id": 7228,
-    "lemma": null,
-    "enlemma": null,
-    "clar": null,
-    "pos": "v",
-    "gender": null,
-    "tense": "pres",
-    "notes": "spoken"
-  },
-  {
     "id": 7296,
     "lemma": "ailwneud",
     "enlemma": "do",
@@ -34563,16 +34553,6 @@
     "id": 196634,
     "lemma": "rhodd",
     "enlemma": "gifts",
-    "clar": null,
-    "pos": "n",
-    "gender": "f",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 196641,
-    "lemma": null,
-    "enlemma": "earths",
     "clar": null,
     "pos": "n",
     "gender": "f",
@@ -37480,16 +37460,6 @@
     "notes": null
   },
   {
-    "id": 197487,
-    "lemma": null,
-    "enlemma": "cash",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 197488,
     "lemma": "dyblygiad",
     "enlemma": "replications",
@@ -38840,16 +38810,6 @@
     "notes": null
   },
   {
-    "id": 197813,
-    "lemma": null,
-    "enlemma": "equipment",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 197827,
     "lemma": "gêr",
     "enlemma": "gears",
@@ -39744,16 +39704,6 @@
     "lemma": "carth",
     "enlemma": "stools",
     "clar": "(excrement)",
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 198040,
-    "lemma": null,
-    "enlemma": "sewage",
-    "clar": null,
     "pos": "n",
     "gender": "m",
     "tense": null,
@@ -41214,16 +41164,6 @@
     "lemma": "adeiladiad",
     "enlemma": "builds",
     "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 198375,
-    "lemma": null,
-    "enlemma": "returns",
-    "clar": "(earnings)",
     "pos": "n",
     "gender": "m",
     "tense": null,
@@ -45234,16 +45174,6 @@
     "lemma": "monitor",
     "enlemma": "monitors",
     "clar": "(alarm)",
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 199441,
-    "lemma": null,
-    "enlemma": "athletics",
-    "clar": null,
     "pos": "n",
     "gender": "m",
     "tense": null,
@@ -49910,16 +49840,6 @@
     "notes": null
   },
   {
-    "id": 200447,
-    "lemma": null,
-    "enlemma": "ownerships",
-    "clar": null,
-    "pos": "n",
-    "gender": "f",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 200456,
     "lemma": "cefndir",
     "enlemma": "backgrounds",
@@ -50990,16 +50910,6 @@
     "notes": null
   },
   {
-    "id": 200674,
-    "lemma": null,
-    "enlemma": "improvements",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 200684,
     "lemma": "pasport",
     "enlemma": "passports",
@@ -51570,16 +51480,6 @@
     "notes": null
   },
   {
-    "id": 200800,
-    "lemma": null,
-    "enlemma": "surroundings",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 200758,
     "lemma": "pladuro",
     "enlemma": "mow_with a scythe",
@@ -51883,16 +51783,6 @@
     "id": 200887,
     "lemma": "ychydig",
     "enlemma": "snall amounts",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 200890,
-    "lemma": null,
-    "enlemma": "news",
     "clar": null,
     "pos": "n",
     "gender": "m",
@@ -54963,16 +54853,6 @@
     "id": 201670,
     "lemma": "enwebiad",
     "enlemma": "nominations",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 201671,
-    "lemma": null,
-    "enlemma": "people of renown",
     "clar": null,
     "pos": "n",
     "gender": "m",
@@ -58240,16 +58120,6 @@
     "notes": null
   },
   {
-    "id": 202469,
-    "lemma": null,
-    "enlemma": "snakes",
-    "clar": null,
-    "pos": "n",
-    "gender": "f",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 202470,
     "lemma": "naidlen",
     "enlemma": "pop-up menus",
@@ -59226,16 +59096,6 @@
     "clar": null,
     "pos": "n",
     "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 202679,
-    "lemma": null,
-    "enlemma": "regions",
-    "clar": null,
-    "pos": "n",
-    "gender": "f",
     "tense": null,
     "notes": null
   },
@@ -60560,16 +60420,6 @@
     "notes": null
   },
   {
-    "id": 202996,
-    "lemma": null,
-    "enlemma": "the early hours",
-    "clar": null,
-    "pos": "n",
-    "gender": "f",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 202997,
     "lemma": "oriel",
     "enlemma": "galleries",
@@ -61600,16 +61450,6 @@
     "notes": null
   },
   {
-    "id": 203271,
-    "lemma": null,
-    "enlemma": "arms of an angle",
-    "clar": null,
-    "pos": "n",
-    "gender": "f",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 203272,
     "lemma": "braint",
     "enlemma": "privileges",
@@ -61743,16 +61583,6 @@
     "id": 203309,
     "lemma": "dant pwdr",
     "enlemma": "bad tooths",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 203310,
-    "lemma": null,
-    "enlemma": "economies of scale",
     "clar": null,
     "pos": "n",
     "gender": "m",
@@ -62103,16 +61933,6 @@
     "id": 203363,
     "lemma": "pwynt",
     "enlemma": "points",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 203364,
-    "lemma": null,
-    "enlemma": "points of the compass",
     "clar": null,
     "pos": "n",
     "gender": "m",
@@ -64100,16 +63920,6 @@
     "notes": null
   },
   {
-    "id": 203931,
-    "lemma": null,
-    "enlemma": "pocket money",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 203933,
     "lemma": "arlliw",
     "enlemma": "tints",
@@ -64920,16 +64730,6 @@
     "notes": null
   },
   {
-    "id": 204134,
-    "lemma": null,
-    "enlemma": "grass",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 204135,
     "lemma": "glaw",
     "enlemma": "rains",
@@ -65730,26 +65530,6 @@
     "notes": null
   },
   {
-    "id": 204375,
-    "lemma": null,
-    "enlemma": "keys",
-    "clar": null,
-    "pos": "n",
-    "gender": "f",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 204380,
-    "lemma": null,
-    "enlemma": "degrees centigrade",
-    "clar": null,
-    "pos": "n",
-    "gender": "f",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 204381,
     "lemma": "gyd-benodiad",
     "enlemma": "joint appointments",
@@ -65783,16 +65563,6 @@
     "id": 204384,
     "lemma": "holiadur",
     "enlemma": "questionnaires",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 204389,
-    "lemma": null,
-    "enlemma": "various kinds",
     "clar": null,
     "pos": "n",
     "gender": "m",
@@ -66163,16 +65933,6 @@
     "id": 204474,
     "lemma": "arhosiad",
     "enlemma": "stays",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 204475,
-    "lemma": null,
-    "enlemma": "correct change",
     "clar": null,
     "pos": "n",
     "gender": "m",
@@ -73210,16 +72970,6 @@
     "notes": null
   },
   {
-    "id": 206324,
-    "lemma": null,
-    "enlemma": "baked beans",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 206325,
     "lemma": "ffasiwn",
     "enlemma": "fashions",
@@ -77400,16 +77150,6 @@
     "notes": null
   },
   {
-    "id": 207459,
-    "lemma": null,
-    "enlemma": "staff",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 207466,
     "lemma": "derbyniwr",
     "enlemma": "receivers",
@@ -77723,16 +77463,6 @@
     "id": 207483,
     "lemma": "rhagdybiaeth",
     "enlemma": "hypotheses",
-    "clar": null,
-    "pos": "n",
-    "gender": "f",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 207484,
-    "lemma": null,
-    "enlemma": "morals",
     "clar": null,
     "pos": "n",
     "gender": "f",
@@ -78384,16 +78114,6 @@
     "lemma": "losen",
     "enlemma": "sweets",
     "clar": "(confectionery)",
-    "pos": "n",
-    "gender": "f",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 207676,
-    "lemma": null,
-    "enlemma": "eyecandy",
-    "clar": null,
     "pos": "n",
     "gender": "f",
     "tense": null,
@@ -80600,26 +80320,6 @@
     "notes": null
   },
   {
-    "id": 208229,
-    "lemma": null,
-    "enlemma": "nineties",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 208230,
-    "lemma": null,
-    "enlemma": "banknotes",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 208231,
     "lemma": "byd",
     "enlemma": "worlds",
@@ -81986,16 +81686,6 @@
     "clar": null,
     "pos": "n",
     "gender": "mf",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 208552,
-    "lemma": null,
-    "enlemma": "seventies",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
     "tense": null,
     "notes": null
   },
@@ -83430,16 +83120,6 @@
     "notes": null
   },
   {
-    "id": 209056,
-    "lemma": null,
-    "enlemma": "payments",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 209074,
     "lemma": "awr",
     "enlemma": "hours",
@@ -84560,61 +84240,11 @@
     "notes": "place"
   },
   {
-    "id": 200654,
-    "lemma": "yn",
-    "enlemma": null,
-    "clar": null,
-    "pos": "prt",
-    "gender": null,
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 197619,
     "lemma": "neithiwr",
     "enlemma": "last_night",
     "clar": null,
     "pos": "adv",
-    "gender": null,
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 206655,
-    "lemma": "fe",
-    "enlemma": null,
-    "clar": "(affirmative verbal particle)",
-    "pos": "prt.aff",
-    "gender": null,
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 200111,
-    "lemma": "mi",
-    "enlemma": null,
-    "clar": "(affirmative verbal particle)",
-    "pos": "prt.aff",
-    "gender": null,
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 198802,
-    "lemma": "na",
-    "enlemma": null,
-    "clar": "(negative responsive verbal particle)",
-    "pos": "prt.neg",
-    "gender": null,
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 205130,
-    "lemma": "ni",
-    "enlemma": null,
-    "clar": "(negative verbal particle)",
-    "pos": "prt.neg",
     "gender": null,
     "tense": null,
     "notes": null
@@ -118370,16 +118000,6 @@
     "notes": null
   },
   {
-    "id": 196724,
-    "lemma": null,
-    "enlemma": "graduates",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 196726,
     "lemma": "llywydd",
     "enlemma": "presidents",
@@ -121030,16 +120650,6 @@
     "notes": null
   },
   {
-    "id": 206079,
-    "lemma": null,
-    "enlemma": "further studies",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 206080,
     "lemma": "uwchfarchnad",
     "enlemma": "supermarkets",
@@ -121143,16 +120753,6 @@
     "id": 206104,
     "lemma": "trefnydd",
     "enlemma": "organisers",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 206105,
-    "lemma": null,
-    "enlemma": "savings",
     "clar": null,
     "pos": "n",
     "gender": "m",
@@ -121520,16 +121120,6 @@
     "notes": null
   },
   {
-    "id": 206761,
-    "lemma": null,
-    "enlemma": "chips",
-    "clar": "(fries)",
-    "pos": "n",
-    "gender": "m",
-    "tense": null,
-    "notes": null
-  },
-  {
     "id": 206779,
     "lemma": "dewisiad",
     "enlemma": "options",
@@ -121876,16 +121466,6 @@
     "clar": null,
     "pos": "n",
     "gender": "f",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 207689,
-    "lemma": null,
-    "enlemma": "farmers",
-    "clar": null,
-    "pos": "n",
-    "gender": "m",
     "tense": null,
     "notes": null
   },
@@ -124165,16 +123745,6 @@
     "enlemma": "um",
     "clar": null,
     "pos": "im",
-    "gender": null,
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 201646,
-    "lemma": "a",
-    "enlemma": null,
-    "clar": "(interrogative verbal particle)",
-    "pos": "prt.int",
     "gender": null,
     "tense": null,
     "notes": null
@@ -132396,16 +131966,6 @@
     "clar": null,
     "pos": "n",
     "gender": "f",
-    "tense": null,
-    "notes": null
-  },
-  {
-    "id": 212394,
-    "lemma": "wedi",
-    "enlemma": null,
-    "clar": null,
-    "pos": "prt.perf",
-    "gender": null,
     "tense": null,
     "notes": null
   },
