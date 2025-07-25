@@ -2,6 +2,7 @@ import Foundation
 
 class ModelData {
     var words: [Entry] = load("dictionary.json")
+    var expansions: [String: String] = load("expansions.json")
 }
 
 func load<T: Decodable>(_ filename: String) -> T {

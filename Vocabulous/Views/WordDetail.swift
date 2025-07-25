@@ -1,6 +1,11 @@
 import SwiftUI
 
 struct WordDetail: View {
+    let modelData = ModelData()
+    var expansions: [String: String] {
+        modelData.expansions
+    }
+    
     var word: Entry
 
     var body: some View {
@@ -10,7 +15,7 @@ struct WordDetail: View {
                 .foregroundStyle(Color(red: 0.784, green: 0.063, blue: 0.180))
 
             if let pos = word.pos {
-                Text(pos)
+                Text(expansions[pos] ?? pos)
                     .font(.system(size: 20, weight: .regular))
                     .italic()
             }
@@ -25,12 +30,12 @@ struct WordDetail: View {
             }
 
             if let gender = word.gender {
-                Text("Gender: \(gender)")
+                Text("Gender: \(expansions[gender] ?? gender)")
                     .font(.body)
             }
 
             if let tense = word.tense {
-                Text("Tense: \(tense)")
+                Text("Tense: \(expansions[tense] ?? tense)")
                     .font(.body)
             }
 
