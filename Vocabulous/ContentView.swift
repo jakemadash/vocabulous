@@ -22,7 +22,6 @@ struct ContentView: View {
             .buttonStyle(.borderedProminent)
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
-        .environment(modelData)
     }
 }
 

@@ -1,6 +1,5 @@
 import Foundation
 
-@Observable
 class ModelData {
     var words: [Entry] = load("dictionary.json")
 }
